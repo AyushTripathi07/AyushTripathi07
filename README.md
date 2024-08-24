@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on OpenCTI<br>👯 I’m looking to collaborate on GenAI Projects<br>🌱 I’m currently learning DevOps <br>💬 Ask me about : NextJs , React Native , Azure<br>⚡ Fun fact : I love to play Football
 
-![Example1](Animation - 1724491251413.gif)
+![Example1](gifs/Example1.gif)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-tripathi07) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AyushTr31492414) 
