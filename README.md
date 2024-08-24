@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on OpenCTI<br>👯 I’m looking to collaborate on GenAI Projects<br>🌱 I’m currently learning DevOps <br>💬 Ask me about : NextJs , React Native , Azure<br>⚡ Fun fact : I love to play Football
 
+![Example1](gifs/Example2.gif)
 ![Example1](gifs/Example1.gif)
 
 ## 🌐 Socials:
